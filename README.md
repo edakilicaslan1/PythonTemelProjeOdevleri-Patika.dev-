@@ -1,1 +1,1 @@
-# PythonTemelProjeOdevleri-Patika.dev-
+# Python Temel Proje Odevleri Patika.dev
