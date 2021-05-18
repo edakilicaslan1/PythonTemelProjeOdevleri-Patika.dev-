@@ -1,0 +1,1 @@
+# PythonTemelProjeOdevleri-Patika.dev-
